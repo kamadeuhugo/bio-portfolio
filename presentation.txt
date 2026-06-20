@@ -1,0 +1,4 @@
+cat > presentation.txt << 'EOF'
+Nom : KAMADEU DEUYO Jessy Hugo
+Filiere : Informatique et Intelligence Artificielle - B1COM
+EOF
